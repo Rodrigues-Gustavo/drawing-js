@@ -1,5 +1,4 @@
 # Drawing - Javascript
-projeto simulando o canva ,feito em uma aula do curso b7web
 
 ### Projeto desenvolvido para portifólio pessoal.
 
@@ -12,11 +11,11 @@ projeto simulando o canva ,feito em uma aula do curso b7web
 <P align="center">projeto simulando o canva ,feito em uma aula do curso b7web</p>
 <h1 align="center"> TESTAR</h1>
 
-<a href="">testar projeto</a>
+<a href="https://rodrigues-gustavo.github.io/drawing-js/">testar projeto</a>
 
 <div>
 
-
+![rodrigues-gustavo github io-screenshot (4)](https://user-images.githubusercontent.com/102608021/194875702-17417c75-b877-4136-8961-f6188eb22152.png)
 
 </div>
 
